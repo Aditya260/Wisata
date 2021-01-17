@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="default_web_client_id" translatable="false">565253839402-njd9r2vtv0rjgc9dfhg2f3hcb3v1lmeg.apps.googleusercontent.com</string>
+    <string name="firebase_database_url" translatable="false">https://wisata-c36fe-default-rtdb.firebaseio.com/</string>
+    <string name="gcm_defaultSenderId" translatable="false">565253839402</string>
+    <string name="google_api_key" translatable="false">AIzaSyAwX_8BcORA074FGHYoTjkspLc7Qy008fI</string>
+    <string name="google_app_id" translatable="false">1:565253839402:android:22dfb61f02c5d8b5aa8153</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyAwX_8BcORA074FGHYoTjkspLc7Qy008fI</string>
+    <string name="google_storage_bucket" translatable="false">wisata-c36fe.appspot.com</string>
+    <string name="project_id" translatable="false">wisata-c36fe</string>
+</resources>

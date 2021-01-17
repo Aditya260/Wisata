@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "565253839402",
+    "firebase_url" : "https://wisata-c36fe-default-rtdb.firebaseio.com/",
+    "project_id": "wisata-c36fe",
+    "storage_bucket": "wisata-c36fe.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:565253839402:android:22dfb61f02c5d8b5aa8153",
+        "android_client_info": {
+          "package_name": "com.uas.wisata"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "565253839402-njd9r2vtv0rjgc9dfhg2f3hcb3v1lmeg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAwX_8BcORA074FGHYoTjkspLc7Qy008fI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "565253839402-njd9r2vtv0rjgc9dfhg2f3hcb3v1lmeg.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
